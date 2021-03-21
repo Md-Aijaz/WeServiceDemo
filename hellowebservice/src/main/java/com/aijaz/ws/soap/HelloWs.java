@@ -1,3 +1,4 @@
+
 package com.aijaz.ws.soap;
 
 import javax.jws.WebMethod;
@@ -12,6 +13,11 @@ public class HelloWs {
 	@WebMethod
 	public String hello() {
 		return "Hello";
+	}
+	@WebMethod
+	public String sayHello(String name)
+	{
+		return "Hi....!"+name;
 	}
 
 }
