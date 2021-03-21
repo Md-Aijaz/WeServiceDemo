@@ -1,4 +1,4 @@
-package com.bharath.ws.soap;
+package com.aijaz.ws.soap;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

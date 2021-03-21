@@ -1,4 +1,4 @@
-package com.bharath.ws.soap;
+package com.aijaz.ws.soap;
 
 import javax.jws.WebMethod;
 import javax.jws.WebService;

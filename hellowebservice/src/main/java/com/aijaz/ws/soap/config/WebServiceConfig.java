@@ -1,4 +1,4 @@
-package com.bharath.ws.soap.config;
+package com.aijaz.ws.soap.config;
 
 import javax.xml.ws.Endpoint;
 
@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import com.bharath.ws.soap.HelloWs;
+import com.aijaz.ws.soap.HelloWs;
 
 @Configuration
 public class WebServiceConfig {
